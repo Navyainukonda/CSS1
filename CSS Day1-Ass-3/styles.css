@@ -1,0 +1,38 @@
+.card{
+    width: 380px;
+    margin: 40px auto;
+    border-radius: 14px;
+    border: 1px solid lightgray;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.card-img{
+    width: 100%;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+}
+.card-padding{
+margin: 30px;
+}
+
+.card-padding .sub{
+color: grey;
+font-size: 18px;
+}
+
+.card-padding .features{
+font-size: 24px;
+
+}
+.card-padding .info{
+    font-size: 18px;
+    color: grey;
+}
+
+.btn{
+    color: rgb(7, 160, 255);
+    background-color: white;
+    border: 1px solid grey;
+    padding: 12px 35px;
+    font-size: 20px; font-weight: 650;
+    border-radius: 10px;
+}
